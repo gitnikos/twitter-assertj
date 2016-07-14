@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: target\classes\com\github\twitterswingsample\view\frames
+Main-Class: com.github.twitterswingsample.view.frames.MainFrame
+
